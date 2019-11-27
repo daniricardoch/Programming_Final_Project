@@ -1,7 +1,5 @@
-# Programming_Final_Project
-Final project for python programming course
-Project Title
-One Paragraph of project description goes here
+# Financial Tool
+This is the final project for my class of Python for Business of the 2nd year of the Bachelor´s of Information Systems Managememnt. 
 
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## The Project
+The project consists of Python code that creates a financial tool. It includes the Graphical user interface necessary to display a present value calculator as well as a tool that determines compound interest. 
